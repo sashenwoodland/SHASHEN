@@ -1,4 +1,4 @@
-﻿        // Page Loader
+        // Page Loader
         window.addEventListener('load', () => {
             setTimeout(() => {
                 const loader = document.getElementById('loader');
